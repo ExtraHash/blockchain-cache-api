@@ -7,8 +7,8 @@
 
 * MariaDB/MySQL with InnoDB support
 * [RabbitMQ](https://www.rabbitmq.com/)
-* [TurtlePay: Blockchain Data Collection Agent](https://github.com/TurtlePay/blockchain-data-collection-agent)
-* [TurtlePay: Blockchain Relay Agent](https://github.com/TurtlePay/blockchain-relay-agent)
+* [TurtlePay: Blockchain Data Collection Agent](https://github.com/extrahash/blockchain-data-collection-agent)
+* [TurtlePay: Blockchain Relay Agent](https://github.com/extrahash/blockchain-relay-agent)
 * [Node.js](https://nodejs.org/) LTS
 
 ## Foreword
